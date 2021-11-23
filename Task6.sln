@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.1_LongestWord", "Task6.1\Task6.1_LongestWord.csproj", "{30D32F31-2874-4B64-BCEC-322BBAB2FEA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.2_PalindromeFind", "Task6.2_PalindromeDetermine\Task6.2_PalindromeFind.csproj", "{6E8C1765-E862-4C8D-BA40-C82755D16772}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.2_PalindromeFind", "Task6.2_PalindromeFind\Task6.2_PalindromeFind.csproj", "{6E8C1765-E862-4C8D-BA40-C82755D16772}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
