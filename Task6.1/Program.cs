@@ -12,7 +12,7 @@ namespace Task6_1
         {
             //Поиск самого длинного слова в введенной строке
             #region Исходные данные
-            string str = Console.ReadLine(), longWord = "";
+            string str = Console.ReadLine(), longestWord = "";
             string[] stringArray = str.Split();
             int strLen, strMaxLen = 0;
             #endregion
@@ -23,13 +23,13 @@ namespace Task6_1
                 if (strMaxLen < (strLen = stringArray[i].Length))
                 {
                     strMaxLen = strLen;
-                    longWord = stringArray[i];
+                    longestWord = stringArray[i];
                 }
             }
             #endregion
 
             //Вывод результатов
-            Console.WriteLine("Самое длинное слово в введеной строке - {0}\nДлина слова - {1} символов", longWord,strMaxLen);
+            Console.WriteLine("Самое длинное слово в введеной строке - {0}\nДлина слова - {1} символов", longestWord,strMaxLen);
             Console.ReadKey();
         }
     }
