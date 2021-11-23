@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.1_LongestWord", "Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.2_PalindromeFind", "Task6.2_PalindromeFind\Task6.2_PalindromeFind.csproj", "{6E8C1765-E862-4C8D-BA40-C82755D16772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.3_CleanString", "Task6_3\Task6.3_CleanString.csproj", "{F60F3F56-CAD6-4E2A-B091-49ED0B72780C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6E8C1765-E862-4C8D-BA40-C82755D16772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8C1765-E862-4C8D-BA40-C82755D16772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8C1765-E862-4C8D-BA40-C82755D16772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60F3F56-CAD6-4E2A-B091-49ED0B72780C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60F3F56-CAD6-4E2A-B091-49ED0B72780C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60F3F56-CAD6-4E2A-B091-49ED0B72780C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60F3F56-CAD6-4E2A-B091-49ED0B72780C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
